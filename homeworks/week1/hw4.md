@@ -47,7 +47,7 @@
     - `git log --oneline`：較簡潔的顯示紀錄
 6.  `git checkout 版本名稱(像亂碼的東西)`：切到某個版本
     - `git checkout master`：回到最新版本
-7. `.gitignore`：沒用的東西丟到這個資料夾
+7. `.gitignore`：不想被 git 列管的東西丟到這個資料夾
 8. `git commit -am “message敘述”`：就是一次做兩個動作`git add 檔案` 和 `git commit -m 版本名稱` (但不會把新增的檔案丟到暫存區，只會處理修改過的檔案。所以有新檔案都先做git add 、git add .）
 9. `git diff` ：看改了啥
 
@@ -85,6 +85,7 @@
     1. 網站上點clone or download，這裡記錄用clone，先複製網址
     2. `git clone 網址`
     3. 如果想改別人的repository，可以用網站上的fork，影印一份到自己帳號底下，再做 1. 的動作，這樣修改後就可以push回去
+    4. 如果是想參與協作，可以試著發送合併回原生 repository 的 PR 
 
 
 

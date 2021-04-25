@@ -24,7 +24,7 @@ ___
 ### 三、h0w 哥說想用 command line 建立一個叫做 wifi 的資料夾，並且在裡面建立一個叫 afu.js 的檔案。這邊是步驟，照著做唄！
   * 假設你要在桌面建立 wifi 資料夾好了
      1. 先打開 iTerm ，用 `pwd` 確認一下現在位置 ，不在桌面的話，請切換到桌面，用  `cd /Users/...../Desktop` 
-     2. `mkdir wife` ，現在桌面應該有資料夾了
+     2. `mkdir wifi` ，現在桌面應該有資料夾了
  * 再來建立一個叫 afu.js 的檔案
       1. `cd wifi`
       2. `touch afu.js` ，現在資料夾裡應該有這個檔案了。

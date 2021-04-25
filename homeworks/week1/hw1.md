@@ -27,7 +27,7 @@
 
      5. 寫完存版本
 
-        *  `git commit -am hw1 (檔案名稱)`
+        *  `git commit -am hw1 (檔案名稱)` 作用範圍僅限於「已追蹤」的檔案，如果有額外新增檔案的話，還是要記得使用指令 add 將檔案進行列管
 
         * 或是  `git add hw1 (檔案名稱)` 再  ` git commit -m hw1 (檔案名稱)`
 
