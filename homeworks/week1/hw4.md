@@ -18,7 +18,7 @@
 
     放 git repository的地方。還有其他網站也在做一樣的事，視覺化repository，例如：GitLab、Bitbucket
 
-4. repository是啥？
+4. repository是什麼？
 
     在github上的專案就叫repository
 ---

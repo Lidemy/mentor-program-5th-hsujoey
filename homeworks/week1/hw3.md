@@ -1,6 +1,6 @@
 ## 教你朋友 CLI
 ### 一、先跟 h0w 哥說明一下command line 到底是什麼？
- * 簡單來說就是另一種操縱電腦的方法。
+ * 簡單來說就是另一種操縱電腦的方法
  * 有兩種操縱電腦的方法，一個是Graphical User Interface (GUI)，另一個是Commend Line Interface (CLI)。
  * 我們一般使用上都是 GUI ，視覺化資料夾等等概念。
 ___

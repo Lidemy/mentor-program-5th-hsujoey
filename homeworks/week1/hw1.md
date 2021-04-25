@@ -7,7 +7,7 @@
 
          * 到 https://classroom.github.com/a/yNNrtNyW
 
-         * 建完會有 Lidemy/mentor-program-5th-hsujoey 這樣的位置。
+         * 建完會有 Lidemy/mentor-program-5th-hsujoey 這樣的位置
 
      2. 按 code 按鈕，把網址複製起來，到 iTerm `git clone 網址`
 
