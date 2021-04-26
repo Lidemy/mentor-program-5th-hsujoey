@@ -1,7 +1,7 @@
 function join(arr, concatStr) {
   var result =arr[0]+concatStr
 
-  for(i=1 ; i< arr.length-1 ; i++){
+  for(var i=1 ; i< arr.length-1 ; i++){
   result += arr[i]+concatStr
   
   }  
@@ -15,7 +15,7 @@ function join(arr, concatStr) {
 function repeat(str, times) {
   var result =''  
 
-  for(i=1 ; i<=times ; i++){
+  for(var i=1 ; i<=times ; i++){
       result += str
   }
 

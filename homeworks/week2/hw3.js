@@ -1,8 +1,8 @@
 function reverse(str) {
     
-  var result = str[str.length-1]
+  var result = ''
 
-  for(i=str.length-2 ; i >= 0 ; i--){
+  for(var i = str.length-1 ; i >= 0 ; i--){
    result += str[i]
   }
 
@@ -10,7 +10,7 @@ function reverse(str) {
 
 }
 
-reverse('yoyoyo');
+reverse('1,2,3,2,1');
 
 
 
