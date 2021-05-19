@@ -28,4 +28,4 @@ function solve(lines) {
 // lines[0]=8
 // typeof(lines[0])=string
 
-// 經過測試，不管有沒有轉成number都可以執行
+// 經過測試，不管有沒有轉成 number，for 都可以執行

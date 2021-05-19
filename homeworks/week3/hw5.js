@@ -32,9 +32,9 @@ function solve(lines) {
     }
   }
 }
-// m = sample Input的第一行，因為是字串，所以要轉數字 ＝ 意義是組數
-// 要跑 sample Input 的第二行到最後一行＝跑lines[1]到lines[m]
-// 每一行用空字串切割為[A, B, C]，是以下的簡寫
+// m = sample Input的第一行，因為是字串，所以要轉數字 ＝ 組數
+// 要跑 sample Input 的第二行到最後一行 ＝ 跑 lines[1] 到 lines[m]
+// 行25 : 每一行用空字串切割為 [A, B, C]，是以下的另一種寫法
 // let line = lines[i].split(' ')
 // let A = line[0]
 // let B = line[1]
