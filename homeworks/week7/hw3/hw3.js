@@ -1,5 +1,5 @@
 document.querySelector('.btn-add').addEventListener('click', () => {
-  const { value } = document.querySelector('.input-todo').value
+  const value  = document.querySelector('.input-todo').value // eslint-disable-line
   if (!value) return
   const div = document.createElement('div')
   div.classList.add('todo')
