@@ -2,7 +2,7 @@ document.querySelector('form').addEventListener('submit', (e) => {
   e.preventDefault()
   let isAccessible = true
   const returnData = {}
-  const allData = document.querySelectorAll('.question__required')
+  const allData = document.querySelectorAll('.required')
   for (const data of allData) {
     const radios = data.querySelectorAll('input[type=radio]')
     const input = data.querySelector('input[type=text]')
