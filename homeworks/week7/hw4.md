@@ -1,5 +1,5 @@
 ## 什麼是 DOM？
-DOM 文件物件模型。JS 跟 html / 瀏覽器的橋樑。
+文件物件模型，JS 跟 html / 瀏覽器的橋樑。
 
 把 document 轉成 object，透過 DOM，JS可以拿到 html 裡的節點（如圖），進而可改 html 呈現的介面，或著說瀏覽器就可以用 JS。
 
